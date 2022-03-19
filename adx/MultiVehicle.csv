@@ -1,0 +1,3 @@
+vin,nickname,year,make,model,trim,licensePlate,stateCode,initialOdometer,lastOdometer,combinedMilesPerGallon,grossWeightRating,engine,fuel,registrationDate
+5NPE34AF8FH040880,new1,2012,GMC,Savana,4x4 King,ew-000-1,BA,58346,58346,15,34,petrol,mpg,2021-03-06
+KNAGM4A76D5300251,vin2savana,2002,GMC,Savana,4x4 King,ew-9800-0,BA,58346,58346,15,34,petrol,mpg,2020-04-06
